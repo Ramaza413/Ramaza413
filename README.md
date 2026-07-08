@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech I use
 
-`Python` · `JavaScript` · `HTML` · `CSS` . `Node.js` .`React.js` 
+`Python` · `JavaScript` · `HTML` · `CSS` . `Node.js` .`React.js` .`MongoDB` .`REST APIS`
 
 ### 📫 Let's connect
 
