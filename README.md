@@ -9,7 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Welcome%20To%20My%20Profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-## 🎓 About Me
+##  About Me
 
 - 🎓 Currently pursuing a degree in **Computer Science**
 - 🤖 Exploring **AI, search algorithms**, and problem-solving through code
@@ -17,39 +17,17 @@
 - 🌱 Always learning, always shipping something new
 - ⚡ Fun fact: I enjoy turning classic AI problems (Sudoku, Wumpus World, pathfinding) into working code
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Ramaza413/AI_Hybrid_movie_system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramaza413&repo=AI_Hybrid_movie_system&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/iammoizzah/ats-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammoizzah&repo=ats-project&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Ramaza413/Dynamic-Path-Finder-Informed-searches">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramaza413&repo=Dynamic-Path-Finder-Informed-searches&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Ramaza413/Wumpus-World-game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramaza413&repo=Wumpus-World-game&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+- 🎬 **[AI Hybrid Movie System](https://github.com/Ramaza413/AI_Hybrid_movie_system)** — hybrid movie recommendation system built in Python
+- 📝 **[ATS Project](https://github.com/iammoizzah/ats-project)** — Applicant Tracking System, built as a collaborative project (MERN stack)
+- 🧭 **[AI Path Finder & Dynamic Path Finder (Informed Searches)](https://github.com/Ramaza413/Dynamic-Path-Finder-Informed-searches)** — pathfinding using informed/uninformed search strategies
+- 🏹 **[Wumpus World Game](https://github.com/Ramaza413/Wumpus-World-game)** — classic AI agent-in-environment problem, built in JavaScript
+- 🔢 **[Sudoku Solver](https://github.com/Ramaza413/Sudoko_Solver)** — constraint-satisfaction solver in Python
+- 🛒 **[Ecommerce Frontend Design](https://github.com/Ramaza413/ecommerce-frontend-design)** — frontend build (header & footer, week 1 of an internship project)
 
 
----
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
