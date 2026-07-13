@@ -19,13 +19,7 @@
 
 ##  What I'm Working On
 
-- 🎬 **[AI Hybrid Movie System](https://github.com/Ramaza413/AI_Hybrid_movie_system)** — hybrid movie recommendation system built in Python
-- 📝 **[ATS Project](https://github.com/iammoizzah/ats-project)** — Applicant Tracking System, built as a collaborative project (MERN stack)
-- 🧭 **[AI Path Finder & Dynamic Path Finder (Informed Searches)](https://github.com/Ramaza413/Dynamic-Path-Finder-Informed-searches)** — pathfinding using informed/uninformed search strategies
-- 🏹 **[Wumpus World Game](https://github.com/Ramaza413/Wumpus-World-game)** — classic AI agent-in-environment problem, built in JavaScript
-- 🔢 **[Sudoku Solver](https://github.com/Ramaza413/Sudoko_Solver)** — constraint-satisfaction solver in Python
-- 🛒 **[Ecommerce Frontend Design](https://github.com/Ramaza413/ecommerce-frontend-design)** — frontend build (header & footer, week 1 of an internship project)
-
+💻 Building full-stack applications with FastAPI, React & PostgreSQL | Exploring AI, LLMs, and scalable system design.
 
 ##  Tech Stack
 
@@ -39,7 +33,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 
 
