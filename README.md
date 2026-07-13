@@ -1,42 +1,113 @@
-# Hi, I'm Ramaza Kishwer 👋
+<div align="center">
 
-🎓 Currently pursuing a degree in Computer Science
-🤖 Exploring AI, search algorithms, and problem-solving through code
-💻 Also building things on the frontend
+<!-- Typing animation header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ramaza+Kishwer+%F0%9F%91%8B;Computer+Science+Student;AI+%26+Search+Algorithms+Explorer;Frontend+Builder+%F0%9F%92%BB" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Welcome%20To%20My%20Profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+## 🎓 About Me
+
+- 🎓 Currently pursuing a degree in **Computer Science**
+- 🤖 Exploring **AI, search algorithms**, and problem-solving through code
+- 💻 Also building things on the **frontend**
+- 🌱 Always learning, always shipping something new
+- ⚡ Fun fact: I enjoy turning classic AI problems (Sudoku, Wumpus World, pathfinding) into working code
+
+---
+
+## 🚀 What I'm Working On
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Ramaza413/AI_Hybrid_movie_system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramaza413&repo=AI_Hybrid_movie_system&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/iammoizzah/ats-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammoizzah&repo=ats-project&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Ramaza413/Dynamic-Path-Finder-Informed-searches">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramaza413&repo=Dynamic-Path-Finder-Informed-searches&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Ramaza413/Wumpus-World-game">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramaza413&repo=Wumpus-World-game&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+> 📌 Note: GitHub only shows **pinned repo cards** for repos under your own username on your profile — the ATS project (under `iammoizzah`) will render as a normal card link, not a pin, unless it's also on your account.
 
 ---
 
-### 🚀 What I'm working on
+## 🛠️ Tech Stack
 
-- **[AI_Hybrid_movie_system](https://github.com/Ramaza413/AI_Hybrid_movie_system)** — hybrid movie recommendation system built in Python
-- **[ATS Project](https://github.com/iammoizzah/ats-project)** — Applicant Tracking System, built as a collaborative project (MERN stack)
-- **AI-path-finder** & **Dynamic-Path-Finder-Informed-searches** — pathfinding using informed/uninformed search strategies
-- **Wumpus-World-game** — classic AI agent-in-environment problem, built in JavaScript
-- **Sudoko_Solver** — constraint-satisfaction solver in Python
-- **ecommerce-frontend-design** — frontend build (header & footer week 1 of an internship project)
+<div align="center">
 
-### 🛠️ Tech I use
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-`Python` · `JavaScript` · `HTML` · `CSS` . `Node.js` .`React.js` .`MongoDB` .`REST APIS`
-
-### 📫 Let's connect
-
-Feel free to explore my repos, star what you find interesting, or open an issue if you spot something I can improve!
+</div>
 
 ---
-⭐️ From [Ramaza413](https://github.com/Ramaza413)
 
-<!--
-**Ramaza413/Ramaza413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ramaza413&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramaza413&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramaza413&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramaza413&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ramaza413&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramaza413)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
+
+Feel free to explore my repos, ⭐ star what you find interesting, or open an issue if you spot something I can improve!
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+</div>
+
+</div>
