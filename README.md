@@ -1,4 +1,4 @@
-div align="center">
+ <div align="center">
 
 <!-- Typing animation header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ramaza+Kishwer+%F0%9F%91%8B;Computer+Science+Student;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Search+Algorithms+Explorer;Frontend+Builder+%E2%9C%A8" alt="Typing SVG" />
