@@ -48,7 +48,6 @@
   </tr>
 </table>
 
-> 📌 Note: GitHub only shows **pinned repo cards** for repos under your own username on your profile — the ATS project (under `iammoizzah`) will render as a normal card link, not a pin, unless it's also on your account.
 
 ---
 
